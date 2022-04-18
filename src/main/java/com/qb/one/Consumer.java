@@ -1,8 +1,8 @@
-package com.qb.consumer;
+package com.qb.one;
 
 /**
  * @author qiuBo
- * @Description: todo
+ * @Description: rabbitMQ的消费者
  * @date 2022/4/18 16:18
  */
 public class Consumer {
