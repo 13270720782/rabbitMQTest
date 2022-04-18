@@ -23,7 +23,7 @@ public class Producer {
         //创建一个连接工厂
         ConnectionFactory connectionFactory = new ConnectionFactory();
         //rabbitmq安装地址  端口号 用户名 密码
-        connectionFactory.setHost("192.168.21.128");
+        connectionFactory.setHost("192.168.182.217");
         connectionFactory.setPort(5672);
         connectionFactory.setUsername("admin");
         connectionFactory.setPassword("admin");
